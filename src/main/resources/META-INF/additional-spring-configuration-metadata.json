@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "hacker.detector.period",
+      "type": "java.lang.Integer",
+      "description": "Time in seconds allowed between failed attempts."
+    },
+    {
+      "name": "hacker.detector.fails",
+      "type": "java.lang.Integer",
+      "description": "Number of failed attempts allowed."
+    }
+  ]
+}
